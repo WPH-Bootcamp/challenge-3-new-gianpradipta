@@ -6,7 +6,7 @@
     "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
   },
   "devDependencies": {
-    "@tailwindcss/cli": "^4.2.2",
-    "tailwindcss": "^4.2.2"
+    "@tailwindcss/cli": "^4.2.4",
+    "tailwindcss": "^4.2.4"
   }
 }
